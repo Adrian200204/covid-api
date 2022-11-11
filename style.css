@@ -1,0 +1,107 @@
+.navigation 
+{
+    display: flex;
+    width: 100%;
+}
+
+.navigation-contents
+{
+    justify-content: right;
+}
+
+.header-des
+{
+    margin-left: 40%;
+}
+
+.header
+{
+    background-color: aliceblue;
+    object-fit: contain;
+}    
+
+.contents
+{
+    display: flex;
+    justify-content: center;
+}
+.card1
+{
+    margin: 30px;
+}
+.card2
+{
+    margin: 30px;
+}
+.card-body
+{
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+}
+.contentIndonesia
+{
+    width: 100%;
+    background-color: azure;
+}
+.cIndonesia
+{
+    margin-left: 40%;
+}
+.buttoncovidinfo .button{
+    justify-content: space-between;
+}
+.cards-content
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cardcc
+{
+    width: 15%;
+}
+.cardcc img
+{
+    height: 100px;
+    object-fit: cover;
+}
+
+.infocovidcontainer
+{
+    width: 100%;
+}
+.infoterakhir
+{
+    cursor: pointer;
+}
+.page3contents
+{
+    width: 90%;
+    margin-left: 5%;
+    text-align: justify;
+}
+.infoakhir{
+    text-align: center;
+}
+.page3anakcard
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer
+{
+    background: whitesmoke;
+}
+
+.footer p
+{
+    text-align: center;
+}
+
+.footer p img
+{
+    height: 30px;
+    width: 30px;
+}
